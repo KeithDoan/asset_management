@@ -1,6 +1,7 @@
 {
   "fields":["Turbine_ID","Previous_Over_current_Trips","Lubrication_Type","New_Seal","Planned_shutdowns","Average_RPM","Asset_Age_Score","Average_Vibration_Score","Torque_rating","Bearing_Weight_Score","Insulation_Rating","Fatigue_Score","Inspection_in_Last_6_months","Minor_Component_Failure_Last_6_months","Major_Component _Failure_Last_6_months","Proactive_Part_Replacement_Last_6_months","Inspection_Last_3_months","Proactive_Asset_Replacement_Last_3 months"],
   "values":[
-    ["1","2","0","0","2","3763","65","183","2","30","78","6.164414","0","0","0","0","0","0"]
-]
+    ["1","2","0","0","2","3763","65","183","2","30","78","6.164414","0","0","0","0","0","0"],
+    ["296","2","0","1","1","5801","114","217","2","7","87","9.219544","0","0","0","0","0","0"]
+  ]
 }
